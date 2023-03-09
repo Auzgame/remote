@@ -3639,7 +3639,7 @@ window.chesscom = window.chesscom || {}, window.chesscom.routes = window.chessco
 			methods: [],
 			schemes: ["https"]
 		}
-	})
+	});
 		var Wn = {
 				400: function(m, a, e) {
 					var n = e(63966),
